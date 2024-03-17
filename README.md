@@ -1,4 +1,5 @@
-# ExoPlayer <img src="https://img.shields.io/github/v/release/hehang0/exoplayer-extension-flac.svg?label=latest"/>
+# ExoPlayer [![](https://img.shields.io/github/v/release/hehang0/exoplayer-extension-flac.svg?label=latest)](https://github.com/HeHang0/exoplayer-extension-flac/releases) [![](https://jitpack.io/v/HeHang0/exoplayer-extension-flac.svg)](https://jitpack.io/#HeHang0/exoplayer-extension-flac)
+
 
 A ExoPlayer extension for support flac.
 
@@ -31,7 +32,7 @@ dependency in the `build.gradle` file of your app module. The following will add
 a dependency to the full library:
 
 ```gradle
-implementation 'com.github.hehang0:exoplayer-extension-flac:1.3.0'
+implementation 'com.github.HeHang0:exoplayer-extension-flac:1.3.0'
 ```
 
 where `1.3.0` is your preferred version.
